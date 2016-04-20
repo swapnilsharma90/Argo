@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Argo</string>
+    <string name="access_token">fc4ea4ff52e54006929fe78fee873043</string>
+    <string name="default_message">Hello! I see that you are based in Mumbai. Would you like to book a room here?</string>
+    <string name="book_room_intent">book.room</string>
+    <string name="which_room">which room do you want ?</string>
+</resources>
