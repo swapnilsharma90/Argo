@@ -9,6 +9,8 @@ import com.dd.argo.R;
 /**
  * Created by jkarkhanis on 30/03/16.
  */
+
+//make this as an inner class of recycler view adapter
 public class ChatViewHolder extends RecyclerView.ViewHolder {
 
     public TextView chatText;
